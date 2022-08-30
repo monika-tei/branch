@@ -1,0 +1,10 @@
+body {
+  background: hotpink;
+}
+
+div {
+  height: 50px;
+  width: 50px;
+  background-color: white;
+  border-radius: 50%;
+}
